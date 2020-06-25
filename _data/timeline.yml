@@ -1,17 +1,14 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
+- title: North China University of Technology
   from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  to: 2022
+  description: Studying Electronic Information Engineering, funded by Belt & Road 
+                Scholarship for 4 years (Merit Scholarship).
+
+- title: Le Wagon - Fullstack Web Development Program - batch 450
+  from: 3 months intensive program
+  to: 
+  description: Le Wagon is a product-driven program teaching the core concepts of 
+              programming and web development. During the course, students learn 
+              how to build robust and beautiful web applications by themselves, 
+              collaborate within a team of developers, and adopt the technical 
+              workflow followed by successful startups.

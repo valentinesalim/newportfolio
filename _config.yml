@@ -3,10 +3,10 @@ title               : val
 description         : >-
                       I design & build
                       digital products
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+baseurl             : ""                  # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : valentinesalim/newportfolio    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
-logo                : https://i.imgur.com/hxjB9IO.png
+logo                : https://res.cloudinary.com/valentinesalim/image/upload/v1593051205/logo_c8refq.png
 
 ### Plugins ###
 plugins:
@@ -24,22 +24,20 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Valentine Salim
   image             : assets/images/banner.png
-  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
+  email             : vp.mulia888@gmail.com
+  facebook          : Rheeval
   github            : valentinesalim
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
   linkedin          : valentinesalim
-  medium            : your_username
-# soundcloud        : your_username
+  medium            : vp.mulia888
+  soundcloud        : prismnavy
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 
