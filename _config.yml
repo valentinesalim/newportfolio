@@ -4,7 +4,7 @@ description         : >-
                       I design & build
                       digital products
 baseurl             : "newportfolio"               # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : valentinesalim.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : "" # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 logo                : https://res.cloudinary.com/valentinesalim/image/upload/v1593051205/logo_c8refq.png
 
