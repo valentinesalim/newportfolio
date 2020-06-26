@@ -2,12 +2,12 @@
 layout: page
 title: About
 permalink: /about/
-weight: 3
+weight: 1
 ---
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
+Hi, I am **{{ site.author.name }}** :wave:,<br>
 Always love to help others by combining my experiences in engineering, design and web development to build user-friendly digital applications. I value simple content structure, clean design patterns, and thoughtful interactions. 
 I prefer to keep learning, continue challenging myself, and do interesting things that matter. 
 
