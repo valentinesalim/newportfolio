@@ -5,20 +5,15 @@ permalink: /about/
 weight: 1
 ---
 
-# **About Me**
+## **About Me**
 
-Hi, I am **{{ site.author.name }}** :wave:,<br>
-Love to help others by combining my experiences in engineering, design and web development to build user-friendly digital applications. I value simple content structure, clean design patterns, and thoughtful interactions.
+Hi! I am **{{ site.author.name }}**. <br>
+Welcome to my personal website, here I will update some of my personal projects or any interest that got me into. I spent most of time learning new stuff while studying Electronic Information Engineering at North China University of Technology (2018-2022).
 
-I’m a fast learner, and love challenges. I tend to have high expectations towards my works and never settle for less. Always looking for ways to improve the efficiency of my life and the world around me. In my free time, I enjoy reading self-motivation books and singing. Sometimes take a lot of photos while travelling.
+I like making internet friends, or if you want to collaborate on projects, feel free to reach me out and connect.
 
-Feel free to send me a message if you want to collaborate on projects or just want to connect.
-<div class="row">
-
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
-
-<div class="row">
-{% include about/timeline.html %}
-</div>
+##### **Connect**
+* [Instagram](https://www.instagram.com/prismnavy/)
+- [Linked In](https://www.linkedin.com/in/valentinesalim/)
++ [Github](https://github.com/valentinesalim)
++  or Email me (vp.mulia888@gmail.com)
