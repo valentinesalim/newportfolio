@@ -55,3 +55,4 @@ In the process, we figured out that there is some process which is critical and 
 
 ##### **3. Takeaways**
 This was my second project as a developer and designer in our team. I learned a lot about building a product from sketch to real app, both front-end and back-end. Also learn how to prioritize the works 'need to be done' and 'nice to have', because given such a short amount of time, we can't just build all the nice feature we want. Thanks Le Wagon for giving me this opportunity and choosing my idea as our final project.
+
