@@ -11,39 +11,39 @@ See the overall [Github Repo](https://www.google.com)
 **☑ Challenge 1 -  JavaScript Drum Kit**
 
 {% include elements/button.html link="https://htmlpreview.github.com/?https://github.com/valentinesalim/JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/index-START.html" text="Demo" style="primary" size="sm" %}
-{% include elements/button.html link="https://github.com" text="GitHub" size="sm" %}
+{% include elements/button.html link="https://github.com/valentinesalim/JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/index-START.html" text="GitHub" size="sm" %}
  
 
 
 **☑ Challenge 2 -  JS and CSS Clock**
 
 {% include elements/button.html link="https://htmlpreview.github.com/?https://github.com/valentinesalim/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-START.html" text="Demo" style="primary" size="sm" %}
-{% include elements/button.html link="https://github.com" text="GitHub" size="sm" %}
+{% include elements/button.html link="https://github.com/valentinesalim/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-START.html" text="GitHub" size="sm" %}
 
 **☑ Challenge 3 -  CSS Variables**
 
 {% include elements/button.html link="https://htmlpreview.github.com/?https://github.com/valentinesalim/JavaScript30/blob/master/03%20-%20CSS%20Variables/index-START.html" text="Demo" style="primary" size="sm" %}
-{% include elements/button.html link="https://github.com" text="GitHub" size="sm" %}
+{% include elements/button.html link="https://github.com/valentinesalim/JavaScript30/blob/master/03%20-%20CSS%20Variables/index-START.html" text="GitHub" size="sm" %}
 
 **☑ Challenge 4 -  Array Cardio Day 1**
 
 {% include elements/button.html link="https://htmlpreview.github.com/?https://github.com/valentinesalim/JavaScript30/blob/master/04%20-%20Array%20Cardio%20Day%201/index-START.html" text="Demo" style="primary" size="sm" %}
-{% include elements/button.html link="https://github.com" text="GitHub" size="sm" %}
+{% include elements/button.html link="https://github.com/valentinesalim/JavaScript30/blob/master/04%20-%20Array%20Cardio%20Day%201/index-START.html" text="GitHub" size="sm" %}
 
 **☑ Challenge 5 -  Flex Panel Gallery**
 
 {% include elements/button.html link="https://htmlpreview.github.com/?https://github.com/valentinesalim/JavaScript30/blob/master/05%20-%20Flex%20Panel%20Gallery/index-START.html" text="Demo" style="primary" size="sm" %}
-{% include elements/button.html link="https://github.com" text="GitHub" size="sm" %}
+{% include elements/button.html link="https://github.com/valentinesalim/JavaScript30/blob/master/05%20-%20Flex%20Panel%20Gallery/index-START.html" text="GitHub" size="sm" %}
 
 **☑ Challenge 6 -  Type Ahead**
 
 {% include elements/button.html link="https://htmlpreview.github.com/?https://github.com/valentinesalim/JavaScript30/blob/master/06%20-%20Type%20Ahead/index-START.html" text="Demo" style="primary" size="sm" %}
-{% include elements/button.html link="https://github.com" text="GitHub" size="sm" %}
+{% include elements/button.html link="https://github.com/valentinesalim/JavaScript30/blob/master/06%20-%20Type%20Ahead/index-START.html" text="GitHub" size="sm" %}
 
 **☐ Challenge 7 -  Array Cardio Day 2**
 
-{% include elements/button.html link="https://htmlpreview.github.com/?" text="Demo" style="primary" size="sm" %}
-{% include elements/button.html link="https://github.com" text="GitHub" size="sm" %}
+{% include elements/button.html link="https://htmlpreview.github.com/?https://github.com/valentinesalim/JavaScript30/blob/master/07%20-%20Array%20Cardio%20Day%202/index-START.html" text="Demo" style="primary" size="sm" %}
+{% include elements/button.html link="https://github.com/valentinesalim/JavaScript30/blob/master/07%20-%20Array%20Cardio%20Day%202/index-START.html" text="GitHub" size="sm" %}
 
 **☐ Challenge 8 -  Fun with HTML5 Canvas**
 
