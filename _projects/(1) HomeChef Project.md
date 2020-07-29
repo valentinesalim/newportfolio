@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/valentinesalim/image/upload/v1594395930/HomeCh
 description: HomeChef is a on-demand cooking recipe web-app that connects home-cookers, professional chefs, and food markets. Built with Ruby on Rails, HTML, CSS, Javascript, Ajax. It was developed as the final project of my 9-weeks coding bootcamp at Le Wagon.
 
 ---
-{% include elements/figure.html image="https://res.cloudinary.com/valentinesalim/image/upload/v1594113278/HomeChef_User_Journey_xebu0e.jpg" caption="Main User Journey, from website : https://homechef.site" %}
+{% include elements/figure.html image="https://res.cloudinary.com/valentinesalim/image/upload/v1594113278/HomeChef_User_Journey_xebu0e.jpg" caption="Main User Journey, from website : https://home-chef-410.herokuapp.com/" %}
 #### **About**
 
 **HomeChef** is a cooking recipe web-app that connect home-cookers, professional chefs, and food markets. We provide on-demand video of professional chefs sharing their recipe tutorials with us, while also enabling the user to order the ingredients directly from us. By doing that, we help professional chefs to share his unique creations of recipe and support food markets to sustain from limited orders per day, and get the user the ingredients without going out!
