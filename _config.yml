@@ -1,10 +1,10 @@
 ### Site Settings ###
-title               : val
+title               : Valentine Salim
 description         : >-
                       I design & build
                       digital products
-baseurl             : valentinesalim.github.io                 # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : valentinesalim/newportfolio    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+baseurl             : ""               # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : "" # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 logo                : https://res.cloudinary.com/valentinesalim/image/upload/v1593051205/logo_c8refq.png
 
@@ -24,6 +24,7 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Valentine Salim
   image             : assets/images/banner.png
+  collaborate       : https://res.cloudinary.com/valentinesalim/image/upload/v1593142968/collaborate_gjzpy5.png
 # dribbble          : your_username
   email             : vp.mulia888@gmail.com
   facebook          : Rheeval
@@ -51,7 +52,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
+  photography:                                             # For Documentation Only
     output: true                                        # For Documentation Only
 
 
@@ -75,9 +76,9 @@ defaults:
       layout: "page"
   - scope:                                              # For Documentation Only
       path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
+      type: "photography"                                  # For Documentation Only
     values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
+      layout: "page"                                 # For Documentation Only
   - scope:
       path: ""
       type: "posts"
