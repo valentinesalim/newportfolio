@@ -30,7 +30,6 @@ author:
   facebook          : Rheeval
   github            : valentinesalim
 # gitlab            : your_username
-# instagram         : your_username
 # kaggle            : your_username
   linkedin          : valentinesalim
   medium            : vp.mulia888
@@ -74,11 +73,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "photography"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "page"                                 # For Documentation Only
+  - scope:
+      path: ""
+      type: "bucket-list"
+    values:
+      layout: "page"
   - scope:
       path: ""
       type: "posts"
