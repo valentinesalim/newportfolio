@@ -75,11 +75,6 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "bucket-list"
-    values:
-      layout: "page"
-  - scope:
-      path: ""
       type: "posts"
     values:
       comments: true                                  # Set to true to enable disqus comments
