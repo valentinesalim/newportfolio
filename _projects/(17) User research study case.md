@@ -1,7 +1,7 @@
 ---
 name: Beritaku
 tools: [User Research, Design Study Case]
-image: https://res.cloudinary.com/valentinesalim/image/upload/v1599194021/GROUP_3_Chapter_4_Challenge.001_rvb9qo.jpg
+image: https://res.cloudinary.com/valentinesalim/image/upload/v1603786423/Beritaku_website_nugvqa.jpg
 description: Help the user to not be overwhelmed with Covid-19 informations.
 
 ---
