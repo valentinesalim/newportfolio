@@ -5,15 +5,12 @@ permalink: /about/
 weight: 1
 ---
 
-#### **My profile**
 
-Hi! my name is Valentine Salim, welcome to my personal site.<br>
-I'm a designer and developer from Indonesia. I love to build product.
+## Hi! I'm **Valentine Salim**
 
-If you want to collaborate on projects, or just want to connect (I like making internet friends :D) feel free to reach me out!
+It's not a sense of earning money. Designing & Developing product is my hobby.
+The same way you all like to do things that interests you. For me too, it's simply
+prolonging something I enjoy doing. That's why I only take on projects that pique
+my interest.
 
-#### **Connect with me**
-* [Instagram](https://www.instagram.com/prismnavy/)
-- [Linked In](https://www.linkedin.com/in/valentinesalim/)
-+ [Github](https://github.com/valentinesalim)
-+ [Email me](mailto:vp.mulia888@gmail.com)
+I value simple content structure, clean design patterns and thoughtful interactions.

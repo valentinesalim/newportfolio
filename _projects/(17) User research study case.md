@@ -1,8 +1,8 @@
 ---
-name: Beritaku (UX Study Case)
+name: Beritaku
 tools: [User Research, Design Study Case]
 image: https://res.cloudinary.com/valentinesalim/image/upload/v1603786693/Beritaku_website_v47oda.jpg
-description: Help the user to not be overwhelmed with Covid-19 informations
+description: [UX Study case] to help the user to not be overwhelmed with Covid-19 informations
 
 ---
 
