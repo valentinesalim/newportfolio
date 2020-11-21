@@ -10,9 +10,9 @@ description: HomeChef is a on-demand cooking recipe web-app that connects home-c
 
 **HomeChef** is a cooking recipe web-app that connect home-cookers, professional chefs, and food markets. We provide on-demand video of professional chefs sharing their recipe tutorials with us, while also enabling the user to order the ingredients directly from us. By doing that, we help professional chefs to share his unique creations of recipe and support food markets to sustain from limited orders per day, and get the user the ingredients without going out!
 
-We believe that our seamless integration between three of this core user journeys is very critical especially during these pandemic times where people still want to buy groceries and cook something new in day to day basis, with a very limited close contact with others. Though it might feel different than normal, our mission is to bring convenient to our user, professional chefs, and food markets. 
+We believe that our seamless integration between three of this core user journeys is very critical especially during these pandemic times where people still want to buy groceries and cook something new in day to day basis, with a very limited close contact with others. Though it might feel different than normal, our mission is to bring convenient to our user, professional chefs, and food markets.
 
-That is why [our team](https://github.com/toralero/HomeChef/graphs/contributors) built HomeChef. The product allows our users to: 
+That is why [our team](https://github.com/toralero/HomeChef/graphs/contributors) built HomeChef. The product allows our users to:
 * Learn how to cook selected recipe via on-demand video.
 - Order weekly ingredient directly from us.
 + Upload their unique creation of recipe.
@@ -27,7 +27,7 @@ That is why [our team](https://github.com/toralero/HomeChef/graphs/contributors)
 
 
 #### **Skills**
-I worked on this product with a team that I met at Le Wagon Coding Bootcamp Shenzhen #Batch 410. We built the application with Ruby on Rails, and used Git & GitHub to collaborate. I work in the intersection of front-end & back-end, and learned a lot by doing this project. My main responsibilities included: 
+I worked on this product with a team that I met at Le Wagon Coding Bootcamp Shenzhen #Batch 410. We built the application with Ruby on Rails, and used Git & GitHub to collaborate. I work in the intersection of front-end & back-end, and learned a lot by doing this project. My main responsibilities included:
 * UI / UX Design (Figma & Whimsical)
 - Front-end Development (HTML/ CSS/ Bootstrap/ JavaScript)
 + Back-end Development (Ruby on Rails, PostgreSQL)
@@ -37,11 +37,11 @@ I worked on this product with a team that I met at Le Wagon Coding Bootcamp Shen
 
 ##### **1. Ideation**
 
-> John, is a 34-year-old office worker with a family, he wants to learn how to cook a new recipe, but he doesn't have much time on grocery shopping. Usually he watches videos of how to make recipies from his fav chefs on youtube. [Core User Journey](https://docs.google.com/spreadsheets/d/1AatnNYICiYwgaA5Q2cSVDMMgO3-Z3CEpL4Ub-fPHTvc/edit?usp=sharing) 
+> John, is a 34-year-old office worker with a family, he wants to learn how to cook a new recipe, but he doesn't have much time on grocery shopping. Usually he watches videos of how to make recipies from his fav chefs on youtube. [Core User Journey](https://docs.google.com/spreadsheets/d/1AatnNYICiYwgaA5Q2cSVDMMgO3-Z3CEpL4Ub-fPHTvc/edit?usp=sharing)
 {% include elements/figure.html image="https://res.cloudinary.com/valentinesalim/image/upload/v1594454286/homechef-ideation_wj9piz.jpg"%}
 
 
-Ideally we would have come up with a whole range of ideas, and tested out a few of them with our potential customers to determine what’s best. Since we had to design and build the product within 2 weeks, we simply had everyone on the team quickly brainstorm and narrow down on a concept that made the most sense. Here’s what we did: 
+Ideally we would have come up with a whole range of ideas, and tested out a few of them with our potential customers to determine what’s best. Since we had to design and build the product within 2 weeks, we simply had everyone on the team quickly brainstorm and narrow down on a concept that made the most sense. Here’s what we did:
 
 
 {% include elements/figure.html image="https://res.cloudinary.com/valentinesalim/image/upload/v1594400322/homechef-userjourney1_visqd7.jpg"%}

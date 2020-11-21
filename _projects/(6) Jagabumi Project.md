@@ -1,12 +1,11 @@
 ---
-name: Case study: How to minimize food waste in Indonesia?
+name: How to minimize food waste in Indonesia
 tools: [Figma, Adobe Illustrator, Adobe Photoshop]
-image: https://res.cloudinary.com/valentinesalim/image/upload/v1604129728/Jagabumi_preview_fpdnjn.jpg
+image: https://res.cloudinary.com/valentinesalim/image/upload/v1605087852/16_gjbopc.gif
 description: Food Rescue App in Indonesia
-
 ---
-{% include elements/figure.html image="https://res.cloudinary.com/valentinesalim/image/upload/v1605087574/1_sxjr1w.jpg" %}
 
+{% include elements/figure.html image="https://res.cloudinary.com/valentinesalim/image/upload/v1605087574/1_sxjr1w.jpg" %}
 
 ### **Problem:**
 > Indonesia wastes about 300 kilograms of food per person every year, making it among one of the largest food wasters in the world, Economist Intelligence Unit (EIU) data revealed.
