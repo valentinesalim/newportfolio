@@ -2,7 +2,7 @@
 name: HomeChef
 tools: [Web Development, Design, Ruby on Rails]
 image: https://res.cloudinary.com/valentinesalim/image/upload/v1594395930/HomeChef_logo_preview_bkvbvp.jpg
-description: HomeChef is a on-demand cooking recipe web-app that connects home-cookers, professional chefs, and food markets. Built with Ruby on Rails, HTML, CSS, Javascript, Ajax. It was developed as the final project of my 9-weeks coding bootcamp at Le Wagon.
+description: On-demand cooking recipe web-app that connects home-cookers, professional chefs, and food markets.
 
 ---
 {% include elements/figure.html image="https://res.cloudinary.com/valentinesalim/image/upload/v1594113278/HomeChef_User_Journey_xebu0e.jpg" caption="Main User Journey, from website : https://home-chef-410.herokuapp.com/" %}

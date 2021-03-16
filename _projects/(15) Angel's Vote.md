@@ -2,7 +2,7 @@
 name: AngelVote
 tools: [Figma]
 image: https://res.cloudinary.com/valentinesalim/image/upload/v1615874282/Angel_s_Vote_-_devpost_vfkdtu.gif
-description: Voter convenience, voter fairness, voter confidence and voter turnout. We will help you secure your vote online with a variety of authentication methods to ensure fair, balanced and secure elections.
+description: Blockchain-based online voting system (Pinnacle Qualification - Best Hack).
 ---
 
 {% include elements/video.html id="pa-NaITacPQ" %}

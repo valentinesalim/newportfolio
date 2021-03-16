@@ -1,5 +1,5 @@
 ---
-name: How to minimize food waste in Indonesia
+name: JagaBumi
 tools: [Figma, Adobe Illustrator, Adobe Photoshop]
 image: https://res.cloudinary.com/valentinesalim/image/upload/v1605087852/16_gjbopc.gif
 description: Food Rescue App in Indonesia
